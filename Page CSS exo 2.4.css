@@ -1,0 +1,23 @@
+.orange{
+    background-color: orange;
+}
+
+h1 + p{
+    background-color: orange;
+}
+
+.blue{
+    background-color:blue;
+}
+
+.jaune{
+    background-color: yellow;
+}
+
+div p:nth-child(2){
+    margin: 40px;
+}
+
+div p:nth-child(3){
+    padding: 40px;
+}

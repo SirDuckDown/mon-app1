@@ -1,0 +1,12 @@
+.maincontainer{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-color: red;
+    height: 40px;
+    width: 100%;
+}
+
+@media all {
+    
+}
